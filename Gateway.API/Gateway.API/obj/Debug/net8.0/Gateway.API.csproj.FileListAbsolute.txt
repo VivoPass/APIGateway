@@ -1,0 +1,428 @@
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Gateway.API
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\testhost.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.deps.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.runtimeconfig.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\testhost.exe
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\appsettings.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.staticwebassets.endpoints.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.exe
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.deps.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.runtimeconfig.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\log4net.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\RestSharp.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Sprache.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.csproj.AssemblyReference.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.AssemblyInfoInputs.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.AssemblyInfo.cs
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.sourcelink.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\scopedcss\bundle\Gateway.API.styles.css
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway..9802D141.Up2Date
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\refint\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.genruntimeconfig.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\ref\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\log4net.config
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Gateway.API
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\testhost.exe
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\testhost.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.deps.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.runtimeconfig.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\log4net.config
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\appsettings.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.staticwebassets.endpoints.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.exe
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.deps.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.runtimeconfig.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\log4net.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\RestSharp.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Sprache.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.csproj.AssemblyReference.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.AssemblyInfoInputs.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.AssemblyInfo.cs
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.sourcelink.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\scopedcss\bundle\Gateway.API.styles.css
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway..9802D141.Up2Date
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\refint\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.genruntimeconfig.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 1\Proyecto\Api-Gateway\Gateway.API\Gateway.API\obj\Debug\net8.0\ref\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Gateway.API
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\testhost.exe
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\testhost.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\log4net.config
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\appsettings.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.staticwebassets.endpoints.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.deps.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.runtimeconfig.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.exe
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.deps.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.runtimeconfig.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.API.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\log4net.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\RestSharp.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Sprache.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Gateway.Infrastructure.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.csproj.AssemblyReference.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.AssemblyInfoInputs.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.AssemblyInfo.cs
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.csproj.CoreCompileInputs.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.sourcelink.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\scopedcss\bundle\Gateway.API.styles.css
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway..9802D141.Up2Date
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\refint\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.pdb
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.genruntimeconfig.cache
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\ref\Gateway.API.dll
