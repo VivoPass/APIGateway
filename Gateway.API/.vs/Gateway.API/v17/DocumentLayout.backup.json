@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAB31104-555D-42E6-89D9-2C5AFAA746B6}|Gateway.Infrastructure\\Gateway.Infrastructure.csproj|c:\\users\\anale\\onedrive\\documentos\\ucab\\desa 2\\proyecto\\vivopass\\apigateway\\gateway.api\\gateway.infrastructure\\services\\keycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB31104-555D-42E6-89D9-2C5AFAA746B6}|Gateway.Infrastructure\\Gateway.Infrastructure.csproj|solutionrelative:gateway.infrastructure\\services\\keycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A64B5F76-F9AB-498C-8927-9C8D7C3D22F3}|Gateway.API\\Gateway.API.csproj|c:\\users\\anale\\onedrive\\documentos\\ucab\\desa 2\\proyecto\\vivopass\\apigateway\\gateway.api\\gateway.api\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64B5F76-F9AB-498C-8927-9C8D7C3D22F3}|Gateway.API\\Gateway.API.csproj|solutionrelative:gateway.api\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB31104-555D-42E6-89D9-2C5AFAA746B6}|Gateway.Infrastructure\\Gateway.Infrastructure.csproj|c:\\users\\anale\\onedrive\\documentos\\ucab\\desa 2\\proyecto\\vivopass\\apigateway\\gateway.api\\gateway.infrastructure\\interfaces\\ikeycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB31104-555D-42E6-89D9-2C5AFAA746B6}|Gateway.Infrastructure\\Gateway.Infrastructure.csproj|solutionrelative:gateway.infrastructure\\interfaces\\ikeycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IKeycloakService.cs",
-              "DocumentMoniker": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.Infrastructure\\Interfaces\\IKeycloakService.cs",
-              "RelativeDocumentMoniker": "Gateway.Infrastructure\\Interfaces\\IKeycloakService.cs",
-              "ToolTip": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.Infrastructure\\Interfaces\\IKeycloakService.cs",
-              "RelativeToolTip": "Gateway.Infrastructure\\Interfaces\\IKeycloakService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:43:56.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GatewayController.cs",
               "DocumentMoniker": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.API\\Controllers\\GatewayController.cs",
               "RelativeDocumentMoniker": "Gateway.API\\Controllers\\GatewayController.cs",
               "ToolTip": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.API\\Controllers\\GatewayController.cs",
               "RelativeToolTip": "Gateway.API\\Controllers\\GatewayController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwEYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T15:43:29.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KeycloakService.cs",
-              "DocumentMoniker": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.Infrastructure\\Services\\KeycloakService.cs",
-              "RelativeDocumentMoniker": "Gateway.Infrastructure\\Services\\KeycloakService.cs",
-              "ToolTip": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.Infrastructure\\Services\\KeycloakService.cs",
-              "RelativeToolTip": "Gateway.Infrastructure\\Services\\KeycloakService.cs",
-              "ViewState": "AgIAAGwBAAAAAAAAAAAmwHwBAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:38:43.239Z",
               "EditorCaption": ""
             }
           ]
