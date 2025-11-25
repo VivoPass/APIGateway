@@ -13,6 +13,8 @@
     <PackageReference Include="MailKit" Version="4.12.1" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.5.1" />
+    <PackageReference Include="NMoneys.Serialization.Mongo_DB.mongocsharpdriver" Version="2.0.1.1" />
     <PackageReference Include="RestSharp" Version="112.1.0" />
     <PackageReference Include="Yarp.ReverseProxy" Version="2.3.0" />
   </ItemGroup>
