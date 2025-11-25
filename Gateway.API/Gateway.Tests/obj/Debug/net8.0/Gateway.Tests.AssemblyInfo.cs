@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gateway.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9432f21a5c81f275043e5f2c306f47b683dca0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97867a901d7e83cd59f065e850535d4c02232761")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gateway.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gateway.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
