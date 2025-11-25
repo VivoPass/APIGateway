@@ -426,3 +426,10 @@ C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gate
 C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.pdb
 C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\Gateway.API.genruntimeconfig.cache
 C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\obj\Debug\net8.0\ref\Gateway.API.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\NMoneys.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\Snappier.dll
+C:\Users\anale\OneDrive\Documentos\UCAB\DESA 2\Proyecto\VivoPass\APIGateway\Gateway.API\Gateway.API\bin\Debug\net8.0\ZstdSharp.dll

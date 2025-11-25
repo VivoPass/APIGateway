@@ -26,4 +26,9 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Gateway.API\Gateway.Controllers\" />
+    <Folder Include="Gateway.Infrastructure\Services\" />
+  </ItemGroup>
+
 </Project>

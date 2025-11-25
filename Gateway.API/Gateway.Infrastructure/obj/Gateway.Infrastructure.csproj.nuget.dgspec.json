@@ -70,6 +70,14 @@
               "target": "Package",
               "version": "[17.14.0, )"
             },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "NMoneys.Serialization.Mongo_DB.mongocsharpdriver": {
+              "target": "Package",
+              "version": "[2.0.1.1, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[112.1.0, )"
