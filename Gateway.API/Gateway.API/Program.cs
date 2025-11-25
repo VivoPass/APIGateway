@@ -1,8 +1,10 @@
 ﻿using DotNetEnv;
 using Gateway.API.Controllers;
-using Gateway.Infrastructure.Keycloak;
-using Gateway.Infrastructure.Services;
+using Gateway.Infrastructure.Configurations;
 using Gateway.Infrastructure.Interfaces;
+using Gateway.Infrastructure.Keycloak;
+using Gateway.Infrastructure.Persistences.Repositories.MongoDB;
+using Gateway.Infrastructure.Services;
 using log4net;
 using log4net.Config;
 using RestSharp;
@@ -23,6 +25,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IRestClient>(new RestClient());
+builder.Services.AddSingleton<AuditoriaDbConfig>();
 builder.Services.AddReverseProxy().LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
 
 
@@ -36,6 +39,7 @@ builder.Services.AddAuthorization(options =>
     );
 });
 
+builder.Services.AddScoped<IAuditoriaRepository, AuditoriaRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ISmtpEmailSender, SmtpEmailSenderService>();
 builder.Services.AddScoped<ISendEmailService, SendEmailService>();

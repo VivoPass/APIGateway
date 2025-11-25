@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A64B5F76-F9AB-498C-8927-9C8D7C3D22F3}|Gateway.API\\Gateway.API.csproj|c:\\users\\anale\\onedrive\\documentos\\ucab\\desa 2\\proyecto\\vivopass\\apigateway\\gateway.api\\gateway.api\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64B5F76-F9AB-498C-8927-9C8D7C3D22F3}|Gateway.API\\Gateway.API.csproj|solutionrelative:gateway.api\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GatewayController.cs",
-              "DocumentMoniker": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.API\\Controllers\\GatewayController.cs",
-              "RelativeDocumentMoniker": "Gateway.API\\Controllers\\GatewayController.cs",
-              "ToolTip": "C:\\Users\\anale\\OneDrive\\Documentos\\UCAB\\DESA 2\\Proyecto\\VivoPass\\APIGateway\\Gateway.API\\Gateway.API\\Controllers\\GatewayController.cs",
-              "RelativeToolTip": "Gateway.API\\Controllers\\GatewayController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:43:29.345Z",
-              "EditorCaption": ""
             }
           ]
         }
